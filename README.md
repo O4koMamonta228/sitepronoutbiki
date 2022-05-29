@@ -20,7 +20,7 @@
            <div class="ps"> <h1>Профессионалы советуют</h1></div> <img src="post-img" src="https://backoffice.algoritmika.org/uploads/2021/02/notebook-405755_1920_0_1613586011."
             <section class="info">
                 <article class="post">
-                    <h2>Лэптоп для отдыха</h2> <img src="post-img" src="https://backoffice.algoritmika.org/uploads/2021/02/notebook-405755_1920_0_1613586011."
+                    <h2>Лэптоп для отдыха</h2> <img src="post-img" src="https://backoffice.algoritmika.org/uploads/2021/02/notebook-405755_1920_0_1613586011."/>
                     <img class="post-img" src="https://backoffice.algoritmika.org/uploads/2021/02/notebook-405755_1920_0_1613586011.jpg" width="400px" height="300px"/>
                     <p class="post-text">Samsung V145-S</p>
                     <a class="article-but" href="">Подробнее</a>
